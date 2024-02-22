@@ -21,6 +21,12 @@ class MyApp extends StatelessWidget {
                 radius: 50,
                 backgroundImage: AssetImage('images/yassine.jpg'),
               ),
+              Text('Yassine Logtari',
+              style: TextStyle(
+                fontSize: 40,
+                color: Colors.white,
+                fontWeight: FontWeight.bold
+              ),)
             ],
           ),
         ),
